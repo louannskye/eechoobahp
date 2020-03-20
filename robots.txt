@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://faeheexoit.stevenisageek.com/sitemap.xml
